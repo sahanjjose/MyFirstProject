@@ -1,2 +1,2 @@
 # MyFirstProject
-Sugar Labs
+Hello Sugar Labs
